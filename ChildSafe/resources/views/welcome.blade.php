@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    ChildSafe Website
                 </div>
 
                 <div class="links">
