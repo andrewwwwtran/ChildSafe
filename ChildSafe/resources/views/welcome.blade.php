@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    ChildSafe Website
+                    Child SafeGuard Website
                 </div>
 
                 <div class="links">
